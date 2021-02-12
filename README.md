@@ -1,2 +1,2 @@
 # motorist
-This is a testing project with no usefulness at all.
+This is a testing repository with no usefulness at all.
